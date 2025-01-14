@@ -1,0 +1,6 @@
+ The goal of this project is to predict which customers are likely to return and generate positive
+ revenue using machine learning. Additionally, descriptive analysis and visualizations are used to
+ uncover actionable insights. 
+It has three parts: Part one: data preprocessing
+Part 2: Data vizualization
+Part 3: LSTM Model to predict customer return behavior
